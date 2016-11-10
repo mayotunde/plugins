@@ -13,7 +13,7 @@
 }
 
 .leaflet-control-geocoder a {
-	background: #f45;
+	background:green;
 	width: 36px;
 	height: 36px;
 }
